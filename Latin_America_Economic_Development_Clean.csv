@@ -1,0 +1,793 @@
+Country Name,Country Code,Series Name,Series Code,Year,Value
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,12233.144411918582
+Argentina,ARG,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,7.268
+Argentina,ARG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,76.268
+Argentina,ARG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,106.0389023
+Argentina,ARG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2014,
+Argentina,ARG,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2014,0.9624066503255189
+Argentina,ARG,"Population, total",SP.POP.TOTL,2014,43024071
+Argentina,ARG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,-2.512615321
+Argentina,ARG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2014,91.39753455
+Argentina,ARG,Individuals using the Internet (% of population),IT.NET.USER.ZS,2014,64.69999695
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,2014,100
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,12274.993968936304
+Brazil,BRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,6.755
+Brazil,BRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,6.329040155161389
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,74.823
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,102.7803116
+Brazil,BRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2014,
+Brazil,BRA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2014,3.5713526695747713
+Brazil,BRA,"Population, total",SP.POP.TOTL,2014,200085127
+Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,0.5039557402422474
+Brazil,BRA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2014,85.43313679
+Brazil,BRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,2014,54.55100188
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2014,99.7
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,8187.208248900844
+Colombia,COL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,8.799
+Colombia,COL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,2.898837877617376
+Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,75.95
+Colombia,COL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,97.36328888
+Colombia,COL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2014,37
+Colombia,COL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2014,4.2410725668786196
+Colombia,COL,"Population, total",SP.POP.TOTL,2014,46565429
+Colombia,COL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,4.499030001109716
+Colombia,COL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2014,77.10584494
+Colombia,COL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2014,52.56813654
+Colombia,COL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2014,97.8
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,14529.676720633584
+Chile,CHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,6.761
+Chile,CHL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,4.718675278546717
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,79.714
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,99.86544037
+Chile,CHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2014,
+Chile,CHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2014,9.835003714190387
+Chile,CHL,"Population, total",SP.POP.TOTL,2014,17864195
+Chile,CHL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,1.7926494713925933
+Chile,CHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2014,87.31337015
+Chile,CHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2014,61.11000061
+Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2014,100
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,11391.377350396351
+Mexico,MEX,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,4.819
+Mexico,MEX,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,4.018616080786787
+Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,74.404
+Mexico,MEX,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,97.31968689
+Mexico,MEX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2014,
+Mexico,MEX,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2014,2.0841574853938734
+Mexico,MEX,"Population, total",SP.POP.TOTL,2014,119784261
+Mexico,MEX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,2.5037635078359273
+Mexico,MEX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2014,76.97413671
+Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,2014,44.38569627
+Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,2014,99.2
+Peru,PER,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,6667.134103608605
+Peru,PER,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,3.208
+Peru,PER,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,3.411945798074646
+Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,75.26
+Peru,PER,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,99.87338257
+Peru,PER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2014,22.7
+Peru,PER,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2014,2.123029650278056
+Peru,PER,"Population, total",SP.POP.TOTL,2014,30115826
+Peru,PER,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,2.3821573718054054
+Peru,PER,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2014,79.99454657
+Peru,PER,Individuals using the Internet (% of population),IT.NET.USER.ZS,2014,40.24465601
+Peru,PER,Access to electricity (% of population),EG.ELC.ACCS.ZS,2014,92.9
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,13679.626498095417
+Argentina,ARG,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,7.577
+Argentina,ARG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2015,76.6
+Argentina,ARG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,107.5048676
+Argentina,ARG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2015,
+Argentina,ARG,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2015,1.9771346178442624
+Argentina,ARG,"Population, total",SP.POP.TOTL,2015,43477012
+Argentina,ARG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,2.731159828289435
+Argentina,ARG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2015,91.49230191
+Argentina,ARG,Individuals using the Internet (% of population),IT.NET.USER.ZS,2015,68.04306411
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,2015,99.7
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,8936.196617121128
+Brazil,BRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,8.538
+Brazil,BRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,9.029901024161363
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2015,75.106
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,101.0862274
+Brazil,BRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2015,
+Brazil,BRA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2015,3.5921493179134427
+Brazil,BRA,"Population, total",SP.POP.TOTL,2015,201675532
+Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,-3.545763393
+Brazil,BRA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2015,85.69356971
+Brazil,BRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,2015,58.32795173
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2015,99.7
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,6248.514905345122
+Colombia,COL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,8.572
+Colombia,COL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,4.989831158495299
+Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2015,76.067
+Colombia,COL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,97.67411804
+Colombia,COL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2015,36.8
+Colombia,COL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2015,3.9593985486099297
+Colombia,COL,"Population, total",SP.POP.TOTL,2015,46969940
+Colombia,COL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,2.955901375275232
+Colombia,COL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2015,77.16362805
+Colombia,COL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2015,55.90497251
+Colombia,COL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2015,98.2
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,13433.920298703233
+Chile,CHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,6.605
+Chile,CHL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,4.348773532170441
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2015,80.008
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,100.9216766
+Chile,CHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2015,11.2
+Chile,CHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2015,7.327803487112675
+Chile,CHL,"Population, total",SP.POP.TOTL,2015,18047625
+Chile,CHL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,2.151942499811838
+Chile,CHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2015,87.46533203
+Chile,CHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2015,76.62959195
+Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2015,99.7
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,10021.238611361561
+Mexico,MEX,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,4.311
+Mexico,MEX,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,2.720640649640229
+Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2015,74.431
+Mexico,MEX,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,100.9822693
+Mexico,MEX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2015,
+Mexico,MEX,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2015,2.987837866111859
+Mexico,MEX,"Population, total",SP.POP.TOTL,2015,121072306
+Mexico,MEX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,2.7023234302402557
+Mexico,MEX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2015,77.19038542
+Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,2015,57.43104299
+Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,2015,99
+Peru,PER,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,6231.711503388939
+Peru,PER,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,3.272
+Peru,PER,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,3.398091947463076
+Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2015,75.732
+Peru,PER,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,100.2515717
+Peru,PER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2015,21.8
+Peru,PER,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2015,3.9031570760641205
+Peru,PER,"Population, total",SP.POP.TOTL,2015,30457600
+Peru,PER,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,3.252244772184511
+Peru,PER,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2015,80.69827766
+Peru,PER,Individuals using the Internet (% of population),IT.NET.USER.ZS,2015,40.85260091
+Peru,PER,Access to electricity (% of population),EG.ELC.ACCS.ZS,2015,93.9
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,12699.962313775635
+Argentina,ARG,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,8.088
+Argentina,ARG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2016,76.105
+Argentina,ARG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,109.5983276
+Argentina,ARG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2016,30.3
+Argentina,ARG,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2016,0.5847489411730086
+Argentina,ARG,"Population, total",SP.POP.TOTL,2016,43900313
+Argentina,ARG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,-2.080327844
+Argentina,ARG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2016,91.58568172
+Argentina,ARG,Individuals using the Internet (% of population),IT.NET.USER.ZS,2016,70.96898082
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,2016,99.9
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,8836.286527356575
+Brazil,BRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,11.58
+Brazil,BRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,8.739143523293931
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2016,75.081
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,102.6929016
+Brazil,BRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2016,
+Brazil,BRA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2016,4.137378038658919
+Brazil,BRA,"Population, total",SP.POP.TOTL,2016,203218114
+Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,-3.275916908
+Brazil,BRA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2016,85.94870484
+Brazil,BRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,2016,60.87254007
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2016,99.7
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,5959.842503675744
+Colombia,COL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,8.922
+Colombia,COL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,7.513460246276745
+Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2016,76.228
+Colombia,COL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,98.41562653
+Colombia,COL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2016,36.8
+Colombia,COL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2016,4.901645729034727
+Colombia,COL,"Population, total",SP.POP.TOTL,2016,47437512
+Colombia,COL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,2.0873825016279426
+Colombia,COL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2016,77.20362664
+Colombia,COL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2016,58.13649357
+Colombia,COL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2016,98.4
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,13649.85204528032
+Chile,CHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,6.926
+Chile,CHL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,3.786193558931184
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2016,80.295
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,101.4881363
+Chile,CHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2016,
+Chile,CHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2016,4.557074881538466
+Chile,CHL,"Population, total",SP.POP.TOTL,2016,18267221
+Chile,CHL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,1.7530387490709956
+Chile,CHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2016,87.63062906
+Chile,CHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2016,83.55858602
+Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2016,100
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,9097.923976747688
+Mexico,MEX,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,3.853
+Mexico,MEX,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,2.821707847476604
+Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2016,74.376
+Mexico,MEX,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,102.8713684
+Mexico,MEX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2016,43.2
+Mexico,MEX,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2016,3.497680270473466
+Mexico,MEX,"Population, total",SP.POP.TOTL,2016,122251351
+Mexico,MEX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,1.772493225412802
+Mexico,MEX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2016,77.44050874
+Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,2016,59.540446
+Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,2016,99.5
+Peru,PER,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,6217.036
+Peru,PER,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,3.741
+Peru,PER,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,3.557176635562789
+Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2016,75.951
+Peru,PER,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,102.1501236
+Peru,PER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2016,20.7
+Peru,PER,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2016,3.6624755017878803
+Peru,PER,"Population, total",SP.POP.TOTL,2016,30866494
+Peru,PER,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,3.953318715207672
+Peru,PER,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2016,81.41923622
+Peru,PER,Individuals using the Internet (% of population),IT.NET.USER.ZS,2016,45.46174069
+Peru,PER,Access to electricity (% of population),EG.ELC.ACCS.ZS,2016,94.2
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,14532.500930851062
+Argentina,ARG,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,8.347
+Argentina,ARG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2017,76.543
+Argentina,ARG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,110.3778
+Argentina,ARG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2017,25.7
+Argentina,ARG,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2017,1.7893650408380555
+Argentina,ARG,"Population, total",SP.POP.TOTL,2017,44288894
+Argentina,ARG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,2.818502977759181
+Argentina,ARG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2017,91.67760284
+Argentina,ARG,Individuals using the Internet (% of population),IT.NET.USER.ZS,2017,74.29490687
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,2017,100
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,10080.509281930525
+Brazil,BRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,12.792
+Brazil,BRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,3.446373350326692
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2017,75.383
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,102.9894867
+Brazil,BRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2017,
+Brazil,BRA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2017,3.338259817390387
+Brazil,BRA,"Population, total",SP.POP.TOTL,2017,204703445
+Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,1.3228690540439914
+Brazil,BRA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2017,86.19828976
+Brazil,BRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,2017,67.47128452
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2017,99.8
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,6479.532312924286
+Colombia,COL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,9.086
+Colombia,COL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,4.314313256950107
+Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2017,76.418
+Colombia,COL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,99.21932983
+Colombia,COL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2017,35.9
+Colombia,COL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2017,4.393182327654295
+Colombia,COL,"Population, total",SP.POP.TOTL,2017,48131078
+Colombia,COL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,1.3593608678874602
+Colombia,COL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2017,77.22451917
+Colombia,COL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2017,62.25988032
+Colombia,COL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2017,98.5
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,14879.90862271865
+Chile,CHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,7.257
+Chile,CHL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,2.182718468685193
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2017,80.61
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,102.2948227
+Chile,CHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2017,8.5
+Chile,CHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2017,1.8964702983654773
+Chile,CHL,"Population, total",SP.POP.TOTL,2017,18558868
+Chile,CHL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,1.3576953734395687
+Chile,CHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2017,87.80002958
+Chile,CHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2017,82.32748693
+Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2017,99.7
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,9649.278167295855
+Mexico,MEX,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,3.419
+Mexico,MEX,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,6.041457240189856
+Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2017,74.261
+Mexico,MEX,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,105.1101837
+Mexico,MEX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2017,
+Mexico,MEX,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2017,2.7830749336452345
+Mexico,MEX,"Population, total",SP.POP.TOTL,2017,123400057
+Mexico,MEX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,1.8717285464838085
+Mexico,MEX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2017,77.72069246
+Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,2017,53.03178861
+Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,2017,100
+Peru,PER,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,6736.166937
+Peru,PER,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,3.691
+Peru,PER,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,2.994900458094428
+Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2017,75.958
+Peru,PER,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,101.0445786
+Peru,PER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2017,21.7
+Peru,PER,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2017,3.6596726460365394
+Peru,PER,"Population, total",SP.POP.TOTL,2017,31324637
+Peru,PER,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,2.5188354423313513
+Peru,PER,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2017,82.19316505
+Peru,PER,Individuals using the Internet (% of population),IT.NET.USER.ZS,2017,50.45041218
+Peru,PER,Access to electricity (% of population),EG.ELC.ACCS.ZS,2017,94.8
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,11752.799892297908
+Argentina,ARG,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,9.22
+Argentina,ARG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,34.27722371310032
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2018,76.77
+Argentina,ARG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,109.6712418
+Argentina,ARG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2018,32
+Argentina,ARG,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2018,2.232531576892528
+Argentina,ARG,"Population, total",SP.POP.TOTL,2018,44654882
+Argentina,ARG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,-2.617396463
+Argentina,ARG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2018,91.76799413
+Argentina,ARG,Individuals using the Internet (% of population),IT.NET.USER.ZS,2018,77.7
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,2018,100
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,9300.661649232186
+Brazil,BRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,12.329
+Brazil,BRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,3.664850283767288
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2018,75.633
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,104.8184814
+Brazil,BRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2018,
+Brazil,BRA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2018,4.078588214549473
+Brazil,BRA,"Population, total",SP.POP.TOTL,2018,206107261
+Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,1.7836667616339952
+Brazil,BRA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2018,86.44207199
+Brazil,BRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,2018,70.43428254
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2018,99.7
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,6816.968183095439
+Colombia,COL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,9.36
+Colombia,COL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,3.240569329305694
+Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2018,76.579
+Colombia,COL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,100.3733368
+Colombia,COL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2018,35.5
+Colombia,COL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2018,3.3808357322018847
+Colombia,COL,"Population, total",SP.POP.TOTL,2018,49024465
+Colombia,COL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,2.5643242827770365
+Colombia,COL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2018,77.28048166
+Colombia,COL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2018,64.12637682
+Colombia,COL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2018,98.5
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,15659.480867562766
+Chile,CHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,7.623
+Chile,CHL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,2.434889813530572
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2018,80.559
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,103.1730499
+Chile,CHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2018,
+Chile,CHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2018,2.684613452072446
+Chile,CHL,"Population, total",SP.POP.TOTL,2018,18893191
+Chile,CHL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,3.9900294778997676
+Chile,CHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2018,87.96204938
+Chile,CHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2018,84.90000153
+Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2018,100
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,10084.79375703637
+Mexico,MEX,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,3.275
+Mexico,MEX,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,4.899350153565507
+Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2018,74.301
+Mexico,MEX,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,105.964653
+Mexico,MEX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2018,41.9
+Mexico,MEX,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2018,3.0141785043816016
+Mexico,MEX,"Population, total",SP.POP.TOTL,2018,124573711
+Mexico,MEX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,1.9720821110106925
+Mexico,MEX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2018,78.02712239
+Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,2018,56.6595668
+Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,2018,99.5
+Peru,PER,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,6978.491215486268
+Peru,PER,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,3.492
+Peru,PER,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,1.509154230247419
+Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2018,76.018
+Peru,PER,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,99.85800934
+Peru,PER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2018,20.5
+Peru,PER,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2018,2.7822521086064276
+Peru,PER,"Population, total",SP.POP.TOTL,2018,31897584
+Peru,PER,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,3.969351341364998
+Peru,PER,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2018,82.685493
+Peru,PER,Individuals using the Internet (% of population),IT.NET.USER.ZS,2018,55.05433424
+Peru,PER,Access to electricity (% of population),EG.ELC.ACCS.ZS,2018,95.2
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,9955.974786804276
+Argentina,ARG,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,9.843
+Argentina,ARG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,53.54830435
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2019,76.847
+Argentina,ARG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,110.4601517
+Argentina,ARG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2019,35.5
+Argentina,ARG,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2019,1.4850068757069668
+Argentina,ARG,"Population, total",SP.POP.TOTL,2019,44973465
+Argentina,ARG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,-2.000861003
+Argentina,ARG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2019,91.85678445
+Argentina,ARG,Individuals using the Internet (% of population),IT.NET.USER.ZS,2019,79.94695203
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,2019,100
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,9029.833266810732
+Brazil,BRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,11.936
+Brazil,BRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,3.732976212168936
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2019,75.809
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,103.6675568
+Brazil,BRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2019,
+Brazil,BRA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2019,3.6926732131559996
+Brazil,BRA,"Population, total",SP.POP.TOTL,2019,207455459
+Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,1.2207778236084152
+Brazil,BRA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2019,86.67979911
+Brazil,BRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,2019,73.91243991
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2019,99.8
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,6472.545449247049
+Colombia,COL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,10.28
+Colombia,COL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,3.523019327414469
+Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2019,76.793
+Colombia,COL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,101.9893494
+Colombia,COL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2019,36.5
+Colombia,COL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2019,4.330582409315055
+Colombia,COL,"Population, total",SP.POP.TOTL,2019,49907985
+Colombia,COL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,3.1868553924553282
+Colombia,COL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2019,77.45955285
+Colombia,COL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2019,65.00690072
+Colombia,COL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2019,99.4
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,14496.934564036183
+Chile,CHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,7.493
+Chile,CHL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,2.557544757033266
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2019,80.324
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,104.4057693
+Chile,CHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2019,
+Chile,CHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2019,4.879151724520244
+Chile,CHL,"Population, total",SP.POP.TOTL,2019,19197744
+Chile,CHL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,0.6442234026319227
+Chile,CHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2019,88.12736856
+Chile,CHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2019,85.01760101
+Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2019,100
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,10369.555359352678
+Mexico,MEX,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,3.477
+Mexico,MEX,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,3.635961421270462
+Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2019,74.53
+Mexico,MEX,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,105.5156097
+Mexico,MEX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2019,
+Mexico,MEX,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2019,2.2965144955982364
+Mexico,MEX,"Population, total",SP.POP.TOTL,2019,125762982
+Mexico,MEX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,-0.392690513
+Mexico,MEX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2019,78.35598433
+Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,2019,69.63210927
+Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,2019,99.6
+Peru,PER,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,7037.008036926039
+Peru,PER,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,3.379
+Peru,PER,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,2.252121914
+Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2019,76.275
+Peru,PER,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,99.52971649
+Peru,PER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2019,20.2
+Peru,PER,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2019,2.2588199067745522
+Peru,PER,"Population, total",SP.POP.TOTL,2019,32449303
+Peru,PER,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,2.2406317687504895
+Peru,PER,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2019,83.10330031
+Peru,PER,Individuals using the Internet (% of population),IT.NET.USER.ZS,2019,59.9505036
+Peru,PER,Access to electricity (% of population),EG.ELC.ACCS.ZS,2019,95.6
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,8535.59938
+Argentina,ARG,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,11.461
+Argentina,ARG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,42.01509473765087
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2020,75.878
+Argentina,ARG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,112.3767319
+Argentina,ARG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2020,42
+Argentina,ARG,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2020,1.266169243087208
+Argentina,ARG,"Population, total",SP.POP.TOTL,2020,45191965
+Argentina,ARG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-9.900484814
+Argentina,ARG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2020,91.94390266
+Argentina,ARG,Individuals using the Internet (% of population),IT.NET.USER.ZS,2020,85.51438646
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,2020,100
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,7074.1937833764405
+Brazil,BRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,13.697
+Brazil,BRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,3.211768038033762
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2020,74.506
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,103.8826599
+Brazil,BRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2020,
+Brazil,BRA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2020,2.592637953102746
+Brazil,BRA,"Population, total",SP.POP.TOTL,2020,208660842
+Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-3.276758796
+Brazil,BRA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2020,86.91121865
+Brazil,BRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,2020,81.34269353
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2020,99.7
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,5339.687113579434
+Colombia,COL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,15.983
+Colombia,COL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,2.526635000847062
+Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2020,74.757
+Colombia,COL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,101.4994507
+Colombia,COL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2020,43.1
+Colombia,COL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2020,2.758894289531405
+Colombia,COL,"Population, total",SP.POP.TOTL,2020,50629997
+Colombia,COL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-7.185914138
+Colombia,COL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2020,77.63825335
+Colombia,COL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2020,69.79533474
+Colombia,COL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2020,99.7
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,13117.99302300864
+Chile,CHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,10.934
+Chile,CHL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,3.045490848043265
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2020,79.349
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,103.6916885
+Chile,CHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2020,10.7
+Chile,CHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2020,4.505009890191615
+Chile,CHL,"Population, total",SP.POP.TOTL,2020,19370624
+Chile,CHL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-6.139696941
+Chile,CHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2020,88.29534904
+Chile,CHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2020,87.45929718
+Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2020,100
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,8841.270749297508
+Mexico,MEX,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,4.44
+Mexico,MEX,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,3.396834155700065
+Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2020,70.449
+Mexico,MEX,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,102.581543
+Mexico,MEX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2020,43.9
+Mexico,MEX,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2020,2.814008752292729
+Mexico,MEX,"Population, total",SP.POP.TOTL,2020,126799054
+Mexico,MEX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-8.354034594
+Mexico,MEX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2020,78.6779606
+Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,2020,71.49017499
+Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,2020,99.4
+Peru,PER,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,6133.3255241018305
+Peru,PER,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,7.179
+Peru,PER,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,2.002412057592918
+Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2020,73.832
+Peru,PER,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,100.1387024
+Peru,PER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2020,30.1
+Peru,PER,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2020,0.46494047617370904
+Peru,PER,"Population, total",SP.POP.TOTL,2020,32838579
+Peru,PER,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-10.9333065
+Peru,PER,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2020,83.52674372
+Peru,PER,Individuals using the Internet (% of population),IT.NET.USER.ZS,2020,65.25179796
+Peru,PER,Access to electricity (% of population),EG.ELC.ACCS.ZS,2020,96.2
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,10738.017922338438
+Argentina,ARG,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,8.736
+Argentina,ARG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,48.40937862551991
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2021,73.948
+Argentina,ARG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,115.7357788
+Argentina,ARG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2021,37.3
+Argentina,ARG,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2021,1.3683808316243802
+Argentina,ARG,"Population, total",SP.POP.TOTL,2021,45312281
+Argentina,ARG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,10.441811988250564
+Argentina,ARG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2021,92.02927762
+Argentina,ARG,Individuals using the Internet (% of population),IT.NET.USER.ZS,2021,87.15070683
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,2021,100
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,7972.536649864598
+Brazil,BRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,13.158
+Brazil,BRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,8.301659756
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2021,73.038
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,106.2984619
+Brazil,BRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2021,
+Brazil,BRA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2021,2.7797908493815897
+Brazil,BRA,"Population, total",SP.POP.TOTL,2021,209550294
+Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,4.762604379086085
+Brazil,BRA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2021,87.13607817
+Brazil,BRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,2021,80.68989314
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2021,99.5
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,6222.621643976142
+Colombia,COL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,13.898
+Colombia,COL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,3.495057573994483
+Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2021,72.698
+Colombia,COL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,102.987999
+Colombia,COL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2021,39.7
+Colombia,COL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2021,3.001756937872336
+Colombia,COL,"Population, total",SP.POP.TOTL,2021,51188173
+Colombia,COL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,10.801198190487838
+Colombia,COL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2021,77.83395703
+Colombia,COL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2021,73.02837449
+Colombia,COL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2021,100
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,16216.18408602887
+Chile,CHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,9.281
+Chile,CHL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,4.524568382591437
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2021,78.876
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,106.6735229
+Chile,CHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2021,
+Chile,CHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2021,4.810314372114457
+Chile,CHL,"Population, total",SP.POP.TOTL,2021,19456334
+Chile,CHL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,11.337403240991335
+Chile,CHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2021,88.46605117
+Chile,CHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2021,90.23280334
+Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2021,100
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,10314.050673370797
+Mexico,MEX,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,4.019
+Mexico,MEX,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,5.689208476837533
+Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2021,69.75
+Mexico,MEX,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,98.32025146
+Mexico,MEX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2021,
+Mexico,MEX,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2021,2.7053031347940686
+Mexico,MEX,"Population, total",SP.POP.TOTL,2021,127648148
+Mexico,MEX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,6.048483471735722
+Mexico,MEX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2021,78.93240074
+Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,2021,75.62650476
+Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,2021,100
+Peru,PER,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,6828.534225356381
+Peru,PER,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,5.097
+Peru,PER,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,4.271663815367978
+Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2021,71.596
+Peru,PER,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,101.5891418
+Peru,PER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2021,25.9
+Peru,PER,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2021,3.1546314759201595
+Peru,PER,"Population, total",SP.POP.TOTL,2021,33155882
+Peru,PER,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,13.416645612651308
+Peru,PER,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2021,83.94801183
+Peru,PER,Individuals using the Internet (% of population),IT.NET.USER.ZS,2021,71.10782643
+Peru,PER,Access to electricity (% of population),EG.ELC.ACCS.ZS,2021,95.6
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,13962.189408722319
+Argentina,ARG,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,6.805
+Argentina,ARG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,72.43075753182404
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2022,75.806
+Argentina,ARG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,114.1481171
+Argentina,ARG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2022,39.2
+Argentina,ARG,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2022,2.3984601182853007
+Argentina,ARG,"Population, total",SP.POP.TOTL,2022,45407904
+Argentina,ARG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,6.020745375348554
+Argentina,ARG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2022,92.11283819
+Argentina,ARG,Individuals using the Internet (% of population),IT.NET.USER.ZS,2022,88.37535691
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,2022,100
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,9281.333344
+Brazil,BRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,9.231
+Brazil,BRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,9.280106089568728
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2022,74.872
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,105.7023697
+Brazil,BRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2022,
+Brazil,BRA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2022,3.868031797013901
+Brazil,BRA,"Population, total",SP.POP.TOTL,2022,210306415
+Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,3.0166943539301485
+Brazil,BRA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2022,87.34955624
+Brazil,BRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,2022,80.52775094
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2022,100
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,6680.445068544809
+Colombia,COL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,10.541
+Colombia,COL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,10.17723135461662
+Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2022,76.508
+Colombia,COL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,101.5737762
+Colombia,COL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2022,36.6
+Colombia,COL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2022,4.971241377
+Colombia,COL,"Population, total",SP.POP.TOTL,2022,51737944
+Colombia,COL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,7.328277294279786
+Colombia,COL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2022,78.04646331
+Colombia,COL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2022,72.79637855
+Colombia,COL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2022,100
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,15399.104471755862
+Chile,CHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,8.249
+Chile,CHL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,11.64386671105596
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2022,79.176
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,106.0683289
+Chile,CHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2022,6.5
+Chile,CHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2022,6.234486082836503
+Chile,CHL,"Population, total",SP.POP.TOTL,2022,19553036
+Chile,CHL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,2.063918642541978
+Chile,CHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2022,88.63953528
+Chile,CHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2022,92.31819916
+Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2022,100
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,11405.794046989628
+Mexico,MEX,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,3.256
+Mexico,MEX,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,7.896276191685497
+Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2022,73.973
+Mexico,MEX,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,98.35765839
+Mexico,MEX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2022,36.3
+Mexico,MEX,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2022,2.672672862674375
+Mexico,MEX,"Population, total",SP.POP.TOTL,2022,128613117
+Mexico,MEX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,3.7097570830909774
+Mexico,MEX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2022,79.19968322
+Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,2022,78.63217894
+Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,2022,100
+Peru,PER,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,7353.745987216674
+Peru,PER,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,4.291
+Peru,PER,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,8.333706300962309
+Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2022,76.834
+Peru,PER,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,103.5914688
+Peru,PER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2022,27.5
+Peru,PER,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2022,4.6280339832617985
+Peru,PER,"Population, total",SP.POP.TOTL,2022,33475438
+Peru,PER,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,2.818199764199221
+Peru,PER,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2022,84.3663555
+Peru,PER,Individuals using the Internet (% of population),IT.NET.USER.ZS,2022,74.67495213
+Peru,PER,Access to electricity (% of population),EG.ELC.ACCS.ZS,2022,96.2
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,14261.84656679479
+Argentina,ARG,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,6.139
+Argentina,ARG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,133.4889355941749
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2023,77.395
+Argentina,ARG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,105.5745843
+Argentina,ARG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2023,41.7
+Argentina,ARG,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2023,3.8119087985695215
+Argentina,ARG,"Population, total",SP.POP.TOTL,2023,45538401
+Argentina,ARG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,-1.85578803
+Argentina,ARG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2023,92.19451323
+Argentina,ARG,Individuals using the Internet (% of population),IT.NET.USER.ZS,2023,89.22897166
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,2023,100
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,10377.589279255684
+Brazil,BRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,7.947
+Brazil,BRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,4.593562822832039
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2023,75.848
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,
+Brazil,BRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2023,
+Brazil,BRA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2023,2.863833442982072
+Brazil,BRA,"Population, total",SP.POP.TOTL,2023,211140729
+Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,3.2416553290698147
+Brazil,BRA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2023,87.61597102
+Brazil,BRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,2023,84.15060238
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2023,99.8
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,7012.491691377558
+Colombia,COL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,9.591
+Colombia,COL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,11.73590449486894
+Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2023,77.725
+Colombia,COL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,
+Colombia,COL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2023,34.6
+Colombia,COL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2023,4.577167482792632
+Colombia,COL,"Population, total",SP.POP.TOTL,2023,52321152
+Colombia,COL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,0.8418195557520392
+Colombia,COL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2023,78.27557158
+Colombia,COL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2023,77.33686322
+Colombia,COL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2023,98.7
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,17081.518074004885
+Chile,CHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,9.013
+Chile,CHL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,7.581682514079624
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2023,81.167
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,105.8309708
+Chile,CHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2023,
+Chile,CHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2023,5.723406759563741
+Chile,CHL,"Population, total",SP.POP.TOTL,2023,19658835
+Chile,CHL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,0.6770248315958582
+Chile,CHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2023,88.81586172
+Chile,CHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2023,94.45742345
+Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2023,100
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,13830.843848864017
+Mexico,MEX,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,2.765
+Mexico,MEX,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,5.527960873143888
+Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2023,75.069
+Mexico,MEX,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,102.0554581
+Mexico,MEX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2023,
+Mexico,MEX,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2023,1.709903817486102
+Mexico,MEX,"Population, total",SP.POP.TOTL,2023,129739759
+Mexico,MEX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,3.1067964131456023
+Mexico,MEX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2023,79.47349357
+Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,2023,81.18318755
+Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,2023,99.7
+Peru,PER,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,7919.046348285474
+Peru,PER,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,4.899
+Peru,PER,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,6.455613483695862
+Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2023,77.74
+Peru,PER,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,111.3953934
+Peru,PER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2023,29
+Peru,PER,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2023,1.6433496097335278
+Peru,PER,"Population, total",SP.POP.TOTL,2023,33845617
+Peru,PER,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,-0.350699814
+Peru,PER,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2023,84.78102558
+Peru,PER,Individuals using the Internet (% of population),IT.NET.USER.ZS,2023,79.48484477
+Peru,PER,Access to electricity (% of population),EG.ELC.ACCS.ZS,2023,96.2
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,13969.78366037374
+Argentina,ARG,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,7.15
+Argentina,ARG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,219.883929
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2024,77.543
+Argentina,ARG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2024,
+Argentina,ARG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2024,38.1
+Argentina,ARG,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2024,1.8240952292539137
+Argentina,ARG,"Population, total",SP.POP.TOTL,2024,45696159
+Argentina,ARG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,-1.342930722
+Argentina,ARG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2024,92.2742316
+Argentina,ARG,Individuals using the Internet (% of population),IT.NET.USER.ZS,2024,89.66715228
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,2024,98.4
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,10310.548697369348
+Brazil,BRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,6.801
+Brazil,BRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,4.367464076523365
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2024,76.023
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2024,104.1446609
+Brazil,BRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2024,
+Brazil,BRA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2024,3.3896080854843906
+Brazil,BRA,"Population, total",SP.POP.TOTL,2024,211998573
+Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,3.419315165019057
+Brazil,BRA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2024,87.89585495
+Brazil,BRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,2024,84.46347227
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2024,99.8
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,7951.086240194116
+Colombia,COL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,9.619
+Colombia,COL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,6.609085937282281
+Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2024,77.913
+Colombia,COL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2024,
+Colombia,COL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2024,31.8
+Colombia,COL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2024,3.254160501892827
+Colombia,COL,"Population, total",SP.POP.TOTL,2024,52886363
+Colombia,COL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,1.493307287710664
+Colombia,COL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2024,78.52108119
+Colombia,COL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2024,79.34543299
+Colombia,COL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2024,98.9
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,16658.96527203507
+Chile,CHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,8.718
+Chile,CHL,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,4.297638916
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2024,81.359
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2024,105.608551
+Chile,CHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2024,
+Chile,CHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2024,3.9798945708676468
+Chile,CHL,"Population, total",SP.POP.TOTL,2024,19764771
+Chile,CHL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,2.805126371066109
+Chile,CHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2024,88.99509085
+Chile,CHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2024,95.590243
+Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,2024,99
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,13988.04237452408
+Mexico,MEX,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,2.678
+Mexico,MEX,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,4.722255884529316
+Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2024,75.264
+Mexico,MEX,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2024,103.0933228
+Mexico,MEX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2024,29.6
+Mexico,MEX,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2024,2.484293881615114
+Mexico,MEX,"Population, total",SP.POP.TOTL,2024,130861007
+Mexico,MEX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,1.3505763138469575
+Mexico,MEX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2024,79.7538806
+Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,2024,83.12233799
+Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,2024,99.8
+Peru,PER,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,8526.296657197827
+Peru,PER,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,5.199
+Peru,PER,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,2.007707394
+Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2024,77.941
+Peru,PER,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2024,108.2890472
+Peru,PER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,2024,27.6
+Peru,PER,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2024,2.2978070827273585
+Peru,PER,"Population, total",SP.POP.TOTL,2024,34217848
+Peru,PER,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,3.5152749274832047
+Peru,PER,Urban population (% of total population),SP.URB.TOTL.IN.ZS,2024,85.19127296
+Peru,PER,Individuals using the Internet (% of population),IT.NET.USER.ZS,2024,81.95705992
+Peru,PER,Access to electricity (% of population),EG.ELC.ACCS.ZS,2024,96.5
