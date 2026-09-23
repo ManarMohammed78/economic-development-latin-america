@@ -74,7 +74,7 @@ with f2:
         label = f"{sel_year_range[0]}"
     else:
         label = f"{sel_year_range[0]}-{sel_year_range[1]}"
-    st.markdown(f"<div style='margin-top:4px; font-size:11px; color:#2d3748; text-align:center;'>Year: {label}</div>", unsafe_allow_html=True)
+    st.markdown(f"<div style='margin-top:2px; font-size:11px; color:#2d3748; text-align:center;'>Year: {label}</div>", unsafe_allow_html=True)
     sel_year = label
 with f3:
     all_inds = sorted(df["Series Name"].unique())
