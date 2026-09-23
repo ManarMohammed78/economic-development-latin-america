@@ -53,17 +53,18 @@ with f1:
     # To match wireframe label inside
     st.markdown(f"<div style='margin-top:-18px; margin-left:10px; font-size:12px; color:#333; pointer-events:none'>Country: {sel_country} ▾</div>", unsafe_allow_html=True)
 with f2:
-    # Flexible year filter - slider allows single year or any range
+    # Flexible year filter inside a rectangle like the other filters
+    st.markdown('<div style="border:1.5px solid #a8bdd6; border-radius:8px; background:white; padding:8px 10px 2px 10px; margin-top:4px;">', unsafe_allow_html=True)
     if "filt_year_range" not in st.session_state:
         st.session_state.filt_year_range = (2014, 2024)
     sel_year_range = st.slider("Year:", 2014, 2024, value=st.session_state.filt_year_range, key="filt_year_range", label_visibility="collapsed")
-    # Show label like wireframe
     if sel_year_range[0] == sel_year_range[1]:
         label = f"{sel_year_range[0]}"
     else:
         label = f"{sel_year_range[0]}-{sel_year_range[1]}"
-    st.markdown(f"<div style='margin-top:-18px; margin-left:10px; font-size:12px; color:#333; pointer-events:none'>Year: {label} ▾</div>", unsafe_allow_html=True)
-    sel_year = label  # for later parsing compatibility
+    st.markdown(f"<div style='margin-top:-8px; margin-left:2px; font-size:11px; color:#5a6d8a;'>Year: {label}</div>", unsafe_allow_html=True)
+    st.markdown('</div>', unsafe_allow_html=True)
+    sel_year = label
 with f3:
     all_inds = sorted(df["Series Name"].unique())
     # Shorten for display like wireframe shows GDP per capita
