@@ -9,7 +9,9 @@ st.set_page_config(page_title="Economic Development App", layout="wide")
 st.markdown("""
 <style>
 [data-testid="stSidebar"] {display: none;}
-.block-container {padding-top: 1.5rem !important; padding-bottom: 2rem !important; max-width: 1400px !important; padding-left: 1.5rem !important; padding-right: 1.5rem !important;}
+.block-container {padding-top: 3.5rem !important; padding-bottom: 2rem !important; max-width: 1400px !important; padding-left: 1.5rem !important; padding-right: 1.5rem !important;}
+header[data-testid="stHeader"] {display: none !important;}
+.stApp > header {display: none !important;}
 .top-nav {display: flex; gap: 8px; margin-bottom: 16px; margin-top: 8px;}
 .nav-btn {flex: 1; padding: 10px; text-align: center; border: 1.5px solid #a8bdd6; border-radius: 6px; background: white; font-size: 14px; cursor: pointer;}
 .nav-selected {background: #d6e4f0 !important; font-weight: 700; border-color: #4a6fa5 !important;}
@@ -30,7 +32,7 @@ nav_cols = st.columns(6)
 pages = ["Overview", "Social Dev.", "Invest. & Tech", "Insights", "Data Table", "About"]
 for i, p in enumerate(pages):
     with nav_cols[i]:
-        if st.button(p, key=f"nav_{p}", use_container_width=True, type="primary" if st.session_state.page==p else "secondary"):
+        if st.button(p, key=f"nav_{p}", width="stretch", type="primary" if st.session_state.page==p else "secondary"):
             st.session_state.page = p
             st.rerun()
 
@@ -49,11 +51,19 @@ if "filt_indicator" not in st.session_state:
 with f1:
     sel_country = st.selectbox("Country:", all_countries, key="filt_country", label_visibility="collapsed", placeholder="Country: All")
     # To match wireframe label inside
-    st.markdown(f"<div style='margin-top:-28px; margin-left:10px; font-size:12px; color:#333; pointer-events:none'>Country: {sel_country} ▾</div>", unsafe_allow_html=True)
+    st.markdown(f"<div style='margin-top:-18px; margin-left:10px; font-size:12px; color:#333; pointer-events:none'>Country: {sel_country} ▾</div>", unsafe_allow_html=True)
 with f2:
-    year_opts = ["2014-2024", "2014-2019", "2020-2024", "2014-2016", "2017-2021"]
-    sel_year = st.selectbox("Year:", year_opts, key="filt_year", label_visibility="collapsed")
-    st.markdown(f"<div style='margin-top:-28px; margin-left:10px; font-size:12px; color:#333; pointer-events:none'>Year: {sel_year} ▾</div>", unsafe_allow_html=True)
+    # Flexible year filter - slider allows single year or any range
+    if "filt_year_range" not in st.session_state:
+        st.session_state.filt_year_range = (2014, 2024)
+    sel_year_range = st.slider("Year:", 2014, 2024, value=st.session_state.filt_year_range, key="filt_year_range", label_visibility="collapsed")
+    # Show label like wireframe
+    if sel_year_range[0] == sel_year_range[1]:
+        label = f"{sel_year_range[0]}"
+    else:
+        label = f"{sel_year_range[0]}-{sel_year_range[1]}"
+    st.markdown(f"<div style='margin-top:-18px; margin-left:10px; font-size:12px; color:#333; pointer-events:none'>Year: {label} ▾</div>", unsafe_allow_html=True)
+    sel_year = label  # for later parsing compatibility
 with f3:
     all_inds = sorted(df["Series Name"].unique())
     # Shorten for display like wireframe shows GDP per capita
@@ -62,7 +72,7 @@ with f3:
     short = sel_indicator.split("(")[0].strip() if "(" in sel_indicator else sel_indicator
     if len(short) > 28:
         short = short[:28] + "..."
-    st.markdown(f"<div style='margin-top:-28px; margin-left:10px; font-size:12px; color:#333; pointer-events:none'>Indicator: {short} ▾</div>", unsafe_allow_html=True)
+    st.markdown(f"<div style='margin-top:-18px; margin-left:10px; font-size:12px; color:#333; pointer-events:none'>Indicator: {short} ▾</div>", unsafe_allow_html=True)
 
 st.write("")
 # Parse filters
@@ -71,11 +81,8 @@ if sel_country == "All":
 else:
     filt_countries = [sel_country]
 
-# Parse year range
-if sel_year == "2014-2024":
-    y0, y1 = 2014, 2024
-else:
-    y0, y1 = map(int, sel_year.split("-"))
+# Parse year range from flexible slider
+y0, y1 = sel_year_range
 
 filt_indicator = sel_indicator
 
@@ -115,7 +122,7 @@ if st.session_state.page == "Overview":
             fig = px.line(d, x="Year", y="Value", color="Country Name", markers=True)
             fig.update_layout(height=280, margin=dict(l=10,r=10,t=10,b=10), plot_bgcolor="white", paper_bgcolor="white", legend=dict(orientation="h", y=-0.2))
             fig.update_xaxes(showgrid=False); fig.update_yaxes(showgrid=True, gridcolor="#eef2f7", title="US$")
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
         else:
             st.info("No data available")
         st.markdown('</div>', unsafe_allow_html=True)
@@ -127,7 +134,7 @@ if st.session_state.page == "Overview":
             fig = px.line(d, x="Year", y="Value", color="Country Name", markers=True)
             fig.update_layout(height=280, margin=dict(l=10,r=10,t=10,b=10), plot_bgcolor="white", paper_bgcolor="white", legend=dict(orientation="h", y=-0.2))
             fig.update_xaxes(showgrid=False); fig.update_yaxes(showgrid=True, gridcolor="#eef2f7", title="%")
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
         else:
             st.info("No data available")
         st.markdown('</div>', unsafe_allow_html=True)
@@ -138,7 +145,7 @@ if st.session_state.page == "Overview":
         fig = px.line(d, x="Year", y="Value", color="Country Name", markers=True)
         fig.update_layout(height=320, margin=dict(l=10,r=10,t=10,b=10), plot_bgcolor="white", paper_bgcolor="white", legend=dict(orientation="h", y=-0.25))
         fig.update_xaxes(showgrid=False); fig.update_yaxes(showgrid=True, gridcolor="#eef2f7", title="Annual %")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
         if "Argentina" in filt_countries and len(filt_countries)>1:
             st.caption("Note: Argentina's scale is much higher, shown as a higher line.")
     else:
@@ -156,7 +163,7 @@ elif st.session_state.page == "Social Dev.":
             fig = px.line(d, x="Year", y="Value", color="Country Name", markers=True)
             fig.update_layout(height=300, margin=dict(l=10,r=10,t=10,b=10), plot_bgcolor="white", paper_bgcolor="white", legend=dict(orientation="h", y=-0.2))
             fig.update_xaxes(showgrid=False); fig.update_yaxes(showgrid=True, gridcolor="#eef2f7", title="Years")
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
         else:
             st.info("No data available")
         st.markdown('</div>', unsafe_allow_html=True)
@@ -170,7 +177,7 @@ elif st.session_state.page == "Social Dev.":
             fig = px.bar(d, x="Country Name", y="Value", color="Country Name")
             fig.update_layout(height=300, margin=dict(l=10,r=10,t=10,b=10), plot_bgcolor="white", paper_bgcolor="white", showlegend=False)
             fig.update_xaxes(showgrid=False); fig.update_yaxes(showgrid=True, gridcolor="#eef2f7", title="% of population")
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
             st.caption(f"Latest year: {latest}. Brazil excluded.")
         else:
             st.info("No data available - Brazil is excluded.")
@@ -182,7 +189,7 @@ elif st.session_state.page == "Social Dev.":
         fig = px.line(d, x="Year", y="Value", color="Country Name", markers=True)
         fig.update_layout(height=360, margin=dict(l=10,r=10,t=10,b=10), plot_bgcolor="white", paper_bgcolor="white", legend=dict(orientation="h", y=-0.2))
         fig.update_xaxes(showgrid=False); fig.update_yaxes(showgrid=True, gridcolor="#eef2f7", title="% gross")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
     else:
         st.info("No data available")
     st.markdown('</div>', unsafe_allow_html=True)
@@ -198,7 +205,7 @@ elif st.session_state.page == "Invest. & Tech":
             fig = px.line(d, x="Year", y="Value", color="Country Name", markers=True)
             fig.update_layout(height=300, margin=dict(l=10,r=10,t=10,b=10), plot_bgcolor="white", paper_bgcolor="white", legend=dict(orientation="h", y=-0.2))
             fig.update_xaxes(showgrid=False); fig.update_yaxes(showgrid=True, gridcolor="#eef2f7", title="% of GDP")
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
         else:
             st.info("No data available")
         st.markdown('</div>', unsafe_allow_html=True)
@@ -210,7 +217,7 @@ elif st.session_state.page == "Invest. & Tech":
             fig = px.line(d, x="Year", y="Value", color="Country Name", markers=True)
             fig.update_layout(height=300, margin=dict(l=10,r=10,t=10,b=10), plot_bgcolor="white", paper_bgcolor="white", legend=dict(orientation="h", y=-0.2))
             fig.update_xaxes(showgrid=False); fig.update_yaxes(showgrid=True, gridcolor="#eef2f7", title="% of population")
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
         else:
             st.info("No data available")
         st.markdown('</div>', unsafe_allow_html=True)
@@ -222,7 +229,7 @@ elif st.session_state.page == "Invest. & Tech":
         fig = px.bar(d, x="Country Name", y="Value", color="Country Name")
         fig.update_layout(height=360, margin=dict(l=10,r=10,t=10,b=10), plot_bgcolor="white", paper_bgcolor="white", showlegend=False)
         fig.update_xaxes(showgrid=False); fig.update_yaxes(showgrid=True, gridcolor="#eef2f7", title="Population")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
         st.caption(f"Latest year: {latest}")
     else:
         st.info("No data available")
@@ -235,7 +242,7 @@ elif st.session_state.page == "Insights":
     if "insights_theme_top" not in st.session_state:
         st.session_state.insights_theme_top = "All"
     sel_theme = st.selectbox("Theme:", theme_options, key="insights_theme_top", label_visibility="collapsed")
-    st.markdown(f"<div style='margin-top:-28px; margin-left:10px; font-size:12px; color:#333; pointer-events:none'>Theme: {sel_theme} ▾</div>", unsafe_allow_html=True)
+    st.markdown(f"<div style='margin-top:-18px; margin-left:10px; font-size:12px; color:#333; pointer-events:none'>Theme: {sel_theme} ▾</div>", unsafe_allow_html=True)
     st.write("")
     insights = [
         {"theme": "Economic Growth", "text": "All six countries showed a synchronized drop in GDP per capita in 2020, ranging from 9.5% to 21.7%."},
@@ -265,13 +272,13 @@ elif st.session_state.page == "Insights":
 elif st.session_state.page == "Data Table":
     st.markdown("### Data Table")
     filtered = df[(df["Country Name"].isin(filt_countries)) & (df["Year"]>=y0) & (df["Year"]<=y1) & (df["Series Name"]==filt_indicator)].copy()
-    st.dataframe(filtered.sort_values(["Country Name","Year"])[["Country Name","Series Name","Year","Value"]], use_container_width=True, height=460)
+    st.dataframe(filtered.sort_values(["Country Name","Year"])[["Country Name","Series Name","Year","Value"]], width="stretch", height=460)
     st.caption(f"Showing {len(filtered)} rows. Click header to sort.")
     csv = filtered.to_csv(index=False).encode("utf-8")
     # Right align button like wireframe
     c1, c2, c3 = st.columns([6,2,2])
     with c3:
-        st.download_button(label="Export CSV", data=csv, file_name="filtered_data.csv", mime="text/csv", type="primary", use_container_width=True)
+        st.download_button(label="Export CSV", data=csv, file_name="filtered_data.csv", mime="text/csv", type="primary", width="stretch")
 
 elif st.session_state.page == "About":
     st.markdown("### About / Methodology")
@@ -294,6 +301,6 @@ Shows what happened 2014-2024, no forecast.<br>
     st.write("")
     c1, c2 = st.columns(2)
     with c1:
-        st.link_button("Link: White Paper", "https://github.com/ManarMohammed78/economic-development-latin-america/blob/main/Economic_Development_Documentation.docx", use_container_width=True)
+        st.link_button("Link: White Paper", "https://github.com/ManarMohammed78/economic-development-latin-america/blob/main/docs/Economic%20Development%20White%20Paper%20.pdf", width="stretch")
     with c2:
-        st.link_button("Link: Documentation", "https://github.com/ManarMohammed78/economic-development-latin-america", use_container_width=True)
+        st.link_button("Link: Documentation", "https://github.com/ManarMohammed78/economic-development-latin-america/blob/main/docs/Economic_Development_Documentation.docx", width="stretch")
