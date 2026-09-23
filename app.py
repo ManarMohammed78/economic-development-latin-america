@@ -53,16 +53,30 @@ with f1:
     # To match wireframe label inside
     st.markdown(f"<div style='margin-top:-18px; margin-left:10px; font-size:12px; color:#333; pointer-events:none'>Country: {sel_country} ▾</div>", unsafe_allow_html=True)
 with f2:
-    # Flexible year filter inside a rectangle like the other filters
-    st.markdown('<div style="border:1.5px solid #a8bdd6; border-radius:8px; background:white; padding:8px 10px 2px 10px; margin-top:4px;">', unsafe_allow_html=True)
-    if "filt_year_range" not in st.session_state:
-        st.session_state.filt_year_range = (2014, 2024)
-    sel_year_range = st.slider("Year:", 2014, 2024, value=st.session_state.filt_year_range, key="filt_year_range", label_visibility="collapsed")
+    # Flexible year filter - two dropdowns inside a rectangle like the other filters
+    st.markdown('<div style="border:1.5px solid #d0d7e3; border-radius:8px; background:white; padding:6px 8px 8px 8px;">', unsafe_allow_html=True)
+    years = list(range(2014, 2025))
+    if "filt_y0" not in st.session_state:
+        st.session_state.filt_y0 = 2014
+    if "filt_y1" not in st.session_state:
+        st.session_state.filt_y1 = 2024
+    y_col1, y_col2 = st.columns(2)
+    with y_col1:
+        sel_y0 = st.selectbox("From", years, key="filt_y0", label_visibility="collapsed")
+    with y_col2:
+        sel_y1 = st.selectbox("To", years, key="filt_y1", label_visibility="collapsed")
+    # Ensure y0 <= y1
+    y0_temp, y1_temp = min(sel_y0, sel_y1), max(sel_y0, sel_y1)
+    if sel_y0 != y0_temp:
+        st.session_state.filt_y0 = y0_temp
+    if sel_y1 != y1_temp:
+        st.session_state.filt_y1 = y1_temp
+    sel_year_range = (y0_temp, y1_temp)
     if sel_year_range[0] == sel_year_range[1]:
         label = f"{sel_year_range[0]}"
     else:
         label = f"{sel_year_range[0]}-{sel_year_range[1]}"
-    st.markdown(f"<div style='margin-top:-8px; margin-left:2px; font-size:11px; color:#5a6d8a;'>Year: {label}</div>", unsafe_allow_html=True)
+    st.markdown(f"<div style='margin-top:4px; font-size:11px; color:#5a6d8a; text-align:center;'>Year: {label}</div>", unsafe_allow_html=True)
     st.markdown('</div>', unsafe_allow_html=True)
     sel_year = label
 with f3:
