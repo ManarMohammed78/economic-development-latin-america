@@ -1,16 +1,18 @@
 Economic Development in Latin America (2014-2024) - Interactive App
-A Streamlit web app to explore economic and social development across six Latin American countries using World Bank data. Built as the app phase of the Living Stones Foundation - Applied Data & Digital Innovation Lab (LATAM) project.
+A Streamlit web app to explore economic and social development across six Latin American countries using World Bank data. Built as the app phase of the Living Stones Foundation - Applied Data and Digital Innovation Lab (LATAM) project.
 
 Live App: https://economic-development-latin-america-4kvxjbsczegme3lnpwsb5d.streamlit.app/
-Repository: https://github.com/ManarMohammed78/economic-development-latin-america - single source of truth for code, dataset, documentation and configuration.
+Repository: https://github.com/ManarMohammed78/economic-development-latin-america
+
+This repository is the single source of truth for code, dataset, documentation and configuration.
 
 Overview
 This app builds directly on the analysis phase (cleaned dataset, 16 insights and Power BI dashboard). It lets users compare 12 indicators for Argentina, Brazil, Chile, Colombia, Mexico and Peru between 2014 and 2024, without any predictive or causal claims. The analysis is descriptive only.
 
 The MVP is deployed on Streamlit Community Cloud and ready for Foundation review.
 
-MVP Features (Final)
-Implemented and tested:
+MVP Features - Final
+Implemented and tested
 
 Overview page with headline KPIs and trend charts for GDP per capita, unemployment and inflation (Argentina inflation shown separately)
 Social Development page with life expectancy, poverty rate (Brazil excluded) and school enrollment
@@ -19,7 +21,7 @@ Insights panel with 16 documented insights, browsable by theme (Economic Growth,
 Data Table with filtered raw data, sortable columns and CSV export for filtered rows
 About and Methodology page with data sources, indicators, methodology, limitations, cutoff and links to White Paper and documentation
 Global filters (country, year range, indicator) with persistence across pages, and correct handling of missing data as "No data available"
-Postponed (outside MVP, confirmed):
+Postponed - outside MVP, confirmed
 
 Urbanization and Access to Electricity (no insights, near full coverage, would add clutter)
 15 additional data sources reviewed in Milestone 1
@@ -40,12 +42,13 @@ Data Source
 World Bank Open Data - World Development Indicators (https://data.worldbank.org/)
 
 12 indicators included:
-GDP per capita (current US$) · GDP growth (annual %) · Inflation, consumer prices (annual %) · Foreign direct investment, net inflows (% of GDP) · Unemployment, total (% of total labor force) · Poverty headcount ratio at national poverty lines · Life expectancy at birth · School enrollment, secondary (% gross) · Population, total · Urban population (% of total population) · Individuals using the Internet (% of population) · Access to electricity (% of population)
+
+GDP per capita (current US$) | GDP growth (annual %) | Inflation, consumer prices (annual %) | Foreign direct investment, net inflows (% of GDP) | Unemployment, total (% of total labor force) | Poverty headcount ratio at national poverty lines | Life expectancy at birth | School enrollment, secondary (% gross) | Population, total | Urban population (% of total population) | Individuals using the Internet (% of population) | Access to electricity (% of population)
 
 Cleaned dataset: 
 Latin_America_Economic_Development_Clean.csv
 
-792 observations (6 countries × 12 indicators × 11 years)
+792 observations (6 countries x 12 indicators x 11 years)
 Long format: Country Name, Country Code, Series Name, Series Code, Year, Value
 Known gaps: Argentina inflation missing before 2018, Brazil poverty missing for all years, ends at 2024
 Cutoff: 2014-2024.
@@ -54,30 +57,26 @@ Project Structure
 text
 
 economic-development-latin-america/
-├── app.py                              # Main app with top navigation and global filters
-├── data/
-│   ├── Latin_America_Economic_Development_Clean.csv
-│   └── raw/Latin_America_Economic_Development_WB_2014_2024 (1).xlsx
-├── pages/
-│   ├── 2_Social_Development.py
-│   ├── 3_Investment_Technology_Demographics.py
-│   ├── 4_Insights.py
-│   ├── 5_Data_Table.py
-│   └── 6_About.py
-├── utils/
-│   ├── data_loader.py
-│   └── filters.py
-├── .streamlit/config.toml
-├── scripts/validate_dataset.py
-├── docs/
-│   ├── Milestone_3_Progress_Summary.md/pdf
-│   ├── Milestone_4_Progress_Summary.md/pdf
-│   ├── Economic Development White Paper .pdf
-│   └── Economic_Development_Documentation.docx
-├── notebooks/Latin_America_Economic_Development.ipynb
-├── requirements.txt
-├── runtime.txt
-└── README.md
+  app.py
+  data/
+    Latin_America_Economic_Development_Clean.csv
+    raw/
+  pages/
+    2_Social_Development.py
+    3_Investment_Technology_Demographics.py
+    4_Insights.py
+    5_Data_Table.py
+    6_About.py
+  utils/
+    data_loader.py
+    filters.py
+  .streamlit/config.toml
+  scripts/validate_dataset.py
+  docs/
+  notebooks/
+  requirements.txt
+  runtime.txt
+  README.md
 Setup and Run Instructions
 1. Clone the repository
 Bash
@@ -120,12 +119,14 @@ Missing values are left as NaN and shown in the UI as "No data available"
 Plotly draws the charts from the filtered data
 Limitations
 Static dataset only (no live World Bank API in this MVP)
-Descriptive analysis only; no causal claims or forecasting
+Descriptive analysis only, no causal claims or forecasting
 Poverty data missing for Brazil throughout the period
 Argentina inflation data unavailable before 2018
 Deployment
-Deployed on Streamlit Community Cloud:
+Deployed on Streamlit Community Cloud
+
 Live URL: https://economic-development-latin-america-4kvxjbsczegme3lnpwsb5d.streamlit.app/
+
 The app deploys automatically from the main branch. Any push to main triggers a redeploy.
 
 Author
